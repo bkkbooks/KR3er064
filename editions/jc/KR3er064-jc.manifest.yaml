@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er064_000-jc.yaml, hash: 'sha256:8567544711960a5dfb2cd2d5a72e4bb911aa7552ea8773ae0a0dd6ecd345ba4a'}
+  - {seq: 0, filename: KR3er064_000-jc.yaml, hash: 'sha256:5c210fc1a799cb651d66b51dd7768032e45c9f2c6041f6034013f78d16db0445'}
   - {seq: 1, filename: KR3er064_001-jc.yaml, hash: 'sha256:47b7599f2be22ae6799c3c767832a901d5f9b6a345cbeabf4fc7504c7c66be01'}
   - {seq: 2, filename: KR3er064_002-jc.yaml, hash: 'sha256:2acee06b471b73c8a300278d65e452909ff53b62489dbb80d0ec67041d4bf232'}
   - {seq: 3, filename: KR3er064_003-jc.yaml, hash: 'sha256:83a17a38add9761b326e1d24ce4ff499e8e4347471a0e8cf5957dfd91e471d14'}
@@ -34,7 +34,7 @@ assets:
   - {seq: 14, filename: KR3er064_014-jc.yaml, hash: 'sha256:b06be35a8151a245d3b2b01b4c4f5552b7232db192a0279b14a1a59ec74574dd'}
   - {seq: 15, filename: KR3er064_015-jc.yaml, hash: 'sha256:d4bb30bb0957c88dca474d1c9c05d2bd388a291184d3a8989c0b4372e7509ea2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er064_000-jc.markers.yaml, hash: 'sha256:4e9ff51549ba80e21427bc2e467afdf48f5ae75f5fc26dde369358a8ee80c30d'}
+  - {seq: 0, role: markers, filename: assets/KR3er064_000-jc.markers.yaml, hash: 'sha256:b44a5e4c7b5ad4a06eb7abb2fce5213bddb2100023672f8dbe9c5094a293800b'}
   - {seq: 1, role: markers, filename: assets/KR3er064_001-jc.markers.yaml, hash: 'sha256:d108b684fafdf32daa31dc5f422623f72c8507fdc873431bb636f188dbad9122'}
   - {seq: 2, role: markers, filename: assets/KR3er064_002-jc.markers.yaml, hash: 'sha256:2909dc5f916f75958cea3540d762c9e74f0a5efb6e380d1f1a6f8c39947ee047'}
   - {seq: 3, role: markers, filename: assets/KR3er064_003-jc.markers.yaml, hash: 'sha256:c1b92eecf419f737740a18c2e95cd08df372848db61fd4a5e8edbb2b247e59c9'}
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er064_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 686
   label: 新刻儒門事親序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er064_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 686
     - 884
   label: 重刊儒門事親序
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er064_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 884
     - 1041
   label: 儒門事親後序
@@ -8051,4 +8051,4 @@ table_of_contents:
   label: 辟穀方
   type: section
   level: 3
-hash: sha256:5bf20e66e61059c48fe21877e0317c34713e1e2b078dc7bcd97e9a3c67aa2d04
+hash: sha256:b1f4c3c97cbad6cb5b1447a0c00fcf78c1f0c86ee629ad285ba8ddd032af55b1

@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er064_000.yaml, hash: 'sha256:4b0bc11f5b29f3989573fadbdab1c8d146e08626cf86efb920b7125e9f6a3f9f'}
+  - {seq: 0, filename: KR3er064_000.yaml, hash: 'sha256:b7b14cb265a331604de212c18b23e2d3dfc2805e82aa5b9eb6cae6d2c76a26d7'}
   - {seq: 1, filename: KR3er064_001.yaml, hash: 'sha256:4dca4e7207dcc91b30c15ada1e0790ecc87493eb9955208589e973ebbb66dd9a'}
   - {seq: 2, filename: KR3er064_002.yaml, hash: 'sha256:646ffb1e8ba5a9e8e8119057523ef5f8cd987f29dc101a41713e5f9dbc70be28'}
   - {seq: 3, filename: KR3er064_003.yaml, hash: 'sha256:3a9a1e6438898c8075e39e6595d154303b8b2c8ba8d00abfcebd4b29eac7fc13'}
@@ -34,7 +34,7 @@ assets:
   - {seq: 14, filename: KR3er064_014.yaml, hash: 'sha256:88e7688ec51e201837486c87e44a70d88c04f4432c7071bc9a6f7cae08811e99'}
   - {seq: 15, filename: KR3er064_015.yaml, hash: 'sha256:b5b820555146e14c0bb192c7279f2ea613ae2d86d7c50877d91bb05020194084'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er064_000.markers.yaml, hash: 'sha256:c8ff0342d9a7ce7b3e6e0bb64ca74fe977c9a042db1e0d5cfcbd685fb8a8b69e'}
+  - {seq: 0, role: markers, filename: assets/KR3er064_000.markers.yaml, hash: 'sha256:6f32aafc548a819a219db208da12b2480971e455f59d0f3808a208132860cc80'}
   - {seq: 1, role: markers, filename: assets/KR3er064_001.markers.yaml, hash: 'sha256:096e137ad75307d64b9d34254a54aa204c63df56aa14eddd3b9efc3ca94c1c92'}
   - {seq: 2, role: markers, filename: assets/KR3er064_002.markers.yaml, hash: 'sha256:36d1a852b88a9bb665bf86d8d01934cfa116f8fd40dd4cb49e75298f4035df06'}
   - {seq: 3, role: markers, filename: assets/KR3er064_003.markers.yaml, hash: 'sha256:b38795e48501418e2ec7441c297702526edec985f841b12b454fcd0c594779e5'}
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er064_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 686
   label: 新刻儒門事親序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er064_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 686
     - 884
   label: 重刊儒門事親序
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er064_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 884
     - 1041
   label: 儒門事親後序
@@ -8051,7 +8051,7 @@ table_of_contents:
   label: 辟穀方
   type: section
   level: 3
-hash: sha256:ace04c4cbf71346ed2ec846fb2d6d385072b96b6025805e3d23cb420c21952d7
+hash: sha256:d5463e92dca1114a6f9a3ce025db67fd58ae9cc1125c99fd7cfbb5b311b1e1bc
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
